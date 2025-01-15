@@ -1,6 +1,6 @@
 # Twitter-Bot-AntiOpinionator
 
-##A Node.js script that searches for tweets using random keywords and replies with opposite of what a Twitter influencer says. 
+##  A Node.js script that searches for tweets using random keywords and replies with opposite of what a Twitter influencer says. 
 ---
 
 ## Features
