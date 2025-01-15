@@ -10,7 +10,6 @@ const twitterBearerToken=
 const openaiApiKey = " OpenAI API Key";
 
 function getKeyword() {
-  // select random keywords
   const keywords = [
     "thoughts",
     "journey",
